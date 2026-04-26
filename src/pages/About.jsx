@@ -5,7 +5,7 @@ function About() {
 
       <div className="card">
         <p>
-          ShopEase is a ecommerce website where users can register, login,
+          ShopEase is an ecommerce website where users can register, login,
           view products, add items to cart, remove items from cart and contact
           the company for support.
         </p>
